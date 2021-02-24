@@ -20,7 +20,7 @@ a {
 
 
 .home {
-  background-image: url('../images/weather.jpg');
+  background-image: url('../images/thermometer.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -64,11 +64,12 @@ a {
   display: flex;
   align-items: flex-start;
   text-size-adjust: 5px;
+  margin-top: 50px;
   
   }
 
 #containerStyle {
-  background-image: url('../images/weather.jpg'); 
+  background-image: url('../images/parasol.jpg'); 
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
